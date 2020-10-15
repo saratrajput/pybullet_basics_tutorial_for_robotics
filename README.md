@@ -1,6 +1,9 @@
 # PyBullet Basics Tutorial for Robotics
+This repo contains some tutorial scripts to get started with robotics simulation
+with PyBullet. Inspired by [video tutorial](https://www.youtube.com/watch?v=9p0O941opGc)
+by Skyentific.
 
-![How Yolo Works](images/pybullet_tutorial.png)
+![PyBullet Tutorial](images/pybullet_tutorial.png)
 
 ## Requirements
 * pybullet
